@@ -3,7 +3,7 @@ package com.Algorithms;
 
 import java.util.Scanner;
 
-public class ProblemALG004r{
+public class MagicSquare{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the size: ");
