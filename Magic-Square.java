@@ -1,4 +1,4 @@
-package com.semanticsquare.basics;
+package com.Algorithms;
 
 
 import java.util.Scanner;
